@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Sinha</h1>
-<h3 align="center">💻 A Passionate Frontend Developer from India 🇮🇳</h3>
+<h3 align="center">💻 Passionate Frontend Developer from India 🇮🇳</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%7C+Next.js+%7C+Angular;Passionate+about+clean+code+%26+UI/UX" alt="Typing SVG" />
