@@ -70,21 +70,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ankit-Sinha70&theme=onedark&row=1&column=7" />
-</p>
-
----
-
-## 🧮 Visitor Count
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Ankit-Sinha70&icon=5&color=6" />
-</p>
-
----
-
 <details>
   <summary>✨ Fun Facts</summary>
   <ul>
