@@ -63,9 +63,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ankit-Sinha70&show_icons=true&theme=tokyonight&hide_border=false" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-Sinha70&theme=tokyonight&hide_border=false" width="48%" />
-  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-Sinha70&theme=tokyonight&hide_border=false&layout=compact" width="48%" />
+  <br />
 </div>
 
 ---
