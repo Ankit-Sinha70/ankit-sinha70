@@ -23,8 +23,8 @@
 ---
 
 ### 📫 How to reach me
-📧 **ankits.brainerhub@gmail.com**, 
-   **ARaaj953@gmail.com**
+📧 **ankits.brainerhub@gmail.com**, <br/>
+📧 **ARaaj953@gmail.com**
 
 ---
 
